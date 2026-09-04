@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect",
+  "description": "Farmer-first AI agricultural selling platform with AI crop quality grading, flexible farmer-controlled pricing, buyer connection, payment protection, and digital receipts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
